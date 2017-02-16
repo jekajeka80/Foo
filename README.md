@@ -1,4 +1,6 @@
 # Foo
 cmake ..
+
 make
+
 ./appFoo
