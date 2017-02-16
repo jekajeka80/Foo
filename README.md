@@ -1,5 +1,5 @@
 # Foo
-cmake ..
+cmake <path/to/prog/>
 
 make
 
